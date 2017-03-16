@@ -1,0 +1,22 @@
+{
+  "name": "libTest",
+  "version": "0.1.0",
+  "summary": "A short description of libTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FyhSky/libTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FyhSky": "fengyinghaotjut@126.com"
+  },
+  "source": {
+    "git": "https://github.com/FyhSky/libTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "libTest/Classes/**/*"
+}
